@@ -1,0 +1,20 @@
+body{
+    background-color: powderblue;
+}
+
+
+p{
+    color: blue;
+}
+
+h1{
+    color: purple; font-family: "Trebuchet MS",verdana,sans-serif ;
+}
+
+p{
+    color:red; font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    color: blueviolet; font-size:24px; font-weight: bold; text-decoration: underline; text-shadow: 4px 4px 5px;
+    font: italic normal bold normal
+}
